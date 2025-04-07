@@ -67,7 +67,6 @@ def _add_default_data():
     create_product("Sugar", 32)
     create_product("Sult", 19)
     create_product("Butter", 62)
-    create_product("Petrol",59 )
     create_product("Gas",59 )
 
 
